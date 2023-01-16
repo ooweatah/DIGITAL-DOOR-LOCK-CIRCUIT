@@ -26,8 +26,10 @@
 * 보기
 
 ## 작동영상
+
 <a href="https://www.youtube.com/watch?v=hVwPV2Dgr-M">
-<img width = "50%" src = "https://user-images.githubusercontent.com/122782748/212704281-2cd84503-a4aa-4ef6-935a-fa26d13bae19.jpg/"?
+<img width = "50%" src = "https://user-images.githubusercontent.com/122782748/212704281-2cd84503-a4aa-4ef6-935a-fa26d13bae19.jpg/">
+    </a>
 
 
 
