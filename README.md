@@ -17,7 +17,8 @@
 
 ### 회로도
 *전체 회로도
-<img with="90%" src="https://user-images.githubusercontent.com/122782748/212700153-20d0c5bb-eb9a-4624-b79d-341a4a1fb6ca.jpg"/>
+
+<img with="80%" src="https://user-images.githubusercontent.com/122782748/212700153-20d0c5bb-eb9a-4624-b79d-341a4a1fb6ca.jpg"/>
 
 *상세 회로도
 
