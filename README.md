@@ -8,5 +8,7 @@
 <img width="80%" src="https://user-images.githubusercontent.com/122782748/212694901-dbe6b1f1-279f-4fda-a02b-ae270036c63f.jpg"/>
 
 ## 블록선도 및 흐름도
-<img="80%" src="https://user-images.githubusercontent.com/122782748/212696631-265768da-8b94-46f9-ba6b-4e09c63c1a08.jpg"/> <img="80%" src="https://user-images.githubusercontent.com/122782748/212696657-87aa8861-49a4-4596-b4d2-58b9b3952590.jpg"/>
+<table>
+<img="80%" src="https://user-images.githubusercontent.com/122782748/212696631-265768da-8b94-46f9-ba6b-4e09c63c1a08.jpg"/> 
+<img="80%" src="https://user-images.githubusercontent.com/122782748/212696657-87aa8861-49a4-4596-b4d2-58b9b3952590.jpg"/>
 
