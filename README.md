@@ -13,14 +13,22 @@
 <img="80%" src="https://user-images.githubusercontent.com/122782748/212696657-87aa8861-49a4-4596-b4d2-58b9b3952590.jpg"/>
 
 ## 제작과정
-*보기
-----------
+* 보기
+--------
 # 회로도
+
 * 전체 회로도
 
 <img with="80%" src="https://user-images.githubusercontent.com/122782748/212700153-20d0c5bb-eb9a-4624-b79d-341a4a1fb6ca.jpg"/>
 
 * 상세 회로도
+
+* 보기
+
+## 작동영상
+<a href="https://www.youtube.com/watch?v=hVwPV2Dgr-M">
+<img width = "50%" src = "https://user-images.githubusercontent.com/122782748/212704281-2cd84503-a4aa-4ef6-935a-fa26d13bae19.jpg/"?
+
 
 
 
