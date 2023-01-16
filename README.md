@@ -23,7 +23,7 @@
 
 * 상세 회로도
 
-* 보기
+** 보기 ** <a href="https://github.com/ooweatah/DIGITAL-DOOR-LOCK-CIRCUIT/blob/main/circuit.md">보기</a>
 
 ## 작동영상
 
