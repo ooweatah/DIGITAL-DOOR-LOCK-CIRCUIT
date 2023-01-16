@@ -13,7 +13,11 @@
 <img width="80%" src="https://user-images.githubusercontent.com/122782748/212696657-87aa8861-49a4-4596-b4d2-58b9b3952590.jpg"/>
 
 ## 제작과정
-* 보기
+
+
+<a href="https://github.com/ooweatah/DIGITAL-DOOR-LOCK-CIRCUIT/blob/main/making.md"> >>>>제작과정 보기</a>
+
+
 --------
 # 회로도
 
